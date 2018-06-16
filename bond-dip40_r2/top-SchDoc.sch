@@ -1,0 +1,387 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 27 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "top-SchDoc"
+Date "16 06 2018"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 2200 2700 0 60 ~
+P1
+Text Label 2200 2800 0 60 ~
+P2
+Text Label 2200 2900 0 60 ~
+P3
+Text Label 2200 3000 0 60 ~
+P4
+Text Label 2200 3100 0 60 ~
+P5
+Text Label 2200 3200 0 60 ~
+P6
+Text Label 2200 3300 0 60 ~
+P7
+Text Label 2200 3400 0 60 ~
+P8
+Text Label 2200 3500 0 60 ~
+P9
+Text Label 2200 3600 0 60 ~
+P10
+Text Label 2200 3700 0 60 ~
+P11
+Text Label 2200 3800 0 60 ~
+P12
+Text Label 2200 3900 0 60 ~
+P13
+Text Label 2200 4000 0 60 ~
+P14
+Text Label 2200 4100 0 60 ~
+P15
+Text Label 2200 4200 0 60 ~
+P16
+Text Label 2200 4300 0 60 ~
+P17
+Text Label 2200 4400 0 60 ~
+P18
+Text Label 2200 4500 0 60 ~
+P19
+Text Label 2200 4600 0 60 ~
+P20
+Text Label 3200 4600 0 60 ~
+P21
+Text Label 3200 4500 0 60 ~
+P22
+Text Label 3200 4400 0 60 ~
+P23
+Text Label 3200 4300 0 60 ~
+P24
+Text Label 3200 4200 0 60 ~
+P25
+Text Label 3200 4100 0 60 ~
+P26
+Text Label 3200 4000 0 60 ~
+P27
+Text Label 3200 3900 0 60 ~
+P28
+Text Label 3200 3800 0 60 ~
+P29
+Text Label 3200 3700 0 60 ~
+P30
+Text Label 3200 3600 0 60 ~
+P31
+Text Label 3200 3500 0 60 ~
+P32
+Text Label 3200 3400 0 60 ~
+P33
+Text Label 3200 3300 0 60 ~
+P34
+Text Label 3200 3200 0 60 ~
+P35
+Text Label 3200 3100 0 60 ~
+P36
+Text Label 3200 3000 0 60 ~
+P37
+Text Label 3200 2900 0 60 ~
+P38
+Text Label 3200 2800 0 60 ~
+P39
+Text Label 3200 2700 0 60 ~
+P40
+Wire Wire Line
+	2400 2700 2200 2700
+Wire Wire Line
+	2400 2800 2200 2800
+Wire Wire Line
+	2400 2900 2200 2900
+Wire Wire Line
+	2400 3000 2200 3000
+Wire Wire Line
+	2400 3100 2200 3100
+Wire Wire Line
+	2400 3200 2200 3200
+Wire Wire Line
+	2400 3300 2200 3300
+Wire Wire Line
+	2400 3400 2200 3400
+Wire Wire Line
+	2400 3500 2200 3500
+Wire Wire Line
+	2400 3600 2200 3600
+Wire Wire Line
+	2400 3700 2200 3700
+Wire Wire Line
+	2400 3800 2200 3800
+Wire Wire Line
+	2400 3900 2200 3900
+Wire Wire Line
+	2400 4000 2200 4000
+Wire Wire Line
+	2400 4100 2200 4100
+Wire Wire Line
+	2400 4200 2200 4200
+Wire Wire Line
+	2400 4300 2200 4300
+Wire Wire Line
+	2400 4400 2200 4400
+Wire Wire Line
+	2400 4500 2200 4500
+Wire Wire Line
+	2400 4600 2200 4600
+Wire Wire Line
+	3400 2700 3200 2700
+Wire Wire Line
+	3400 2800 3200 2800
+Wire Wire Line
+	3400 2900 3200 2900
+Wire Wire Line
+	3400 3000 3200 3000
+Wire Wire Line
+	3400 3100 3200 3100
+Wire Wire Line
+	3400 3200 3200 3200
+Wire Wire Line
+	3400 3300 3200 3300
+Wire Wire Line
+	3400 3400 3200 3400
+Wire Wire Line
+	3400 3500 3200 3500
+Wire Wire Line
+	3400 3600 3200 3600
+Wire Wire Line
+	3400 3700 3200 3700
+Wire Wire Line
+	3400 3800 3200 3800
+Wire Wire Line
+	3400 3900 3200 3900
+Wire Wire Line
+	3400 4000 3200 4000
+Wire Wire Line
+	3400 4100 3200 4100
+Wire Wire Line
+	3400 4200 3200 4200
+Wire Wire Line
+	3400 4300 3200 4300
+Wire Wire Line
+	3400 4400 3200 4400
+Wire Wire Line
+	3400 4500 3200 4500
+Wire Wire Line
+	3400 4600 3200 4600
+Text Label 3800 2700 0 60 ~
+P1
+Text Label 3800 2800 0 60 ~
+P2
+Text Label 3800 2900 0 60 ~
+P3
+Text Label 3800 3000 0 60 ~
+P4
+Text Label 3800 3100 0 60 ~
+P5
+Text Label 3800 3200 0 60 ~
+P6
+Text Label 3800 3300 0 60 ~
+P7
+Text Label 3800 3400 0 60 ~
+P8
+Text Label 3800 3500 0 60 ~
+P9
+Text Label 3800 3600 0 60 ~
+P10
+Text Label 3800 3700 0 60 ~
+P11
+Text Label 3800 3800 0 60 ~
+P12
+Text Label 3800 3900 0 60 ~
+P13
+Text Label 3800 4000 0 60 ~
+P14
+Text Label 3800 4100 0 60 ~
+P15
+Text Label 3800 4200 0 60 ~
+P16
+Text Label 3800 4300 0 60 ~
+P17
+Text Label 3800 4400 0 60 ~
+P18
+Text Label 3800 4500 0 60 ~
+P19
+Text Label 3800 4600 0 60 ~
+P20
+Wire Wire Line
+	4000 2700 3800 2700
+Wire Wire Line
+	4000 2800 3800 2800
+Wire Wire Line
+	4000 2900 3800 2900
+Wire Wire Line
+	4000 3000 3800 3000
+Wire Wire Line
+	4000 3100 3800 3100
+Wire Wire Line
+	4000 3200 3800 3200
+Wire Wire Line
+	4000 3300 3800 3300
+Wire Wire Line
+	4000 3400 3800 3400
+Wire Wire Line
+	4000 3500 3800 3500
+Wire Wire Line
+	4000 3600 3800 3600
+Wire Wire Line
+	4000 3700 3800 3700
+Wire Wire Line
+	4000 3800 3800 3800
+Wire Wire Line
+	4000 3900 3800 3900
+Wire Wire Line
+	4000 4000 3800 4000
+Wire Wire Line
+	4000 4100 3800 4100
+Wire Wire Line
+	4000 4200 3800 4200
+Wire Wire Line
+	4000 4300 3800 4300
+Wire Wire Line
+	4000 4400 3800 4400
+Wire Wire Line
+	4000 4500 3800 4500
+Wire Wire Line
+	4000 4600 3800 4600
+Text Label 4800 4600 0 60 ~
+P21
+Text Label 4800 4500 0 60 ~
+P22
+Text Label 4800 4400 0 60 ~
+P23
+Text Label 4800 4300 0 60 ~
+P24
+Text Label 4800 4200 0 60 ~
+P25
+Text Label 4800 4100 0 60 ~
+P26
+Text Label 4800 4000 0 60 ~
+P27
+Text Label 4800 3900 0 60 ~
+P28
+Text Label 4800 3800 0 60 ~
+P29
+Text Label 4800 3700 0 60 ~
+P30
+Text Label 4800 3600 0 60 ~
+P31
+Text Label 4800 3500 0 60 ~
+P32
+Text Label 4800 3400 0 60 ~
+P33
+Text Label 4800 3300 0 60 ~
+P34
+Text Label 4800 3200 0 60 ~
+P35
+Text Label 4800 3100 0 60 ~
+P36
+Text Label 4800 3000 0 60 ~
+P37
+Text Label 4800 2900 0 60 ~
+P38
+Text Label 4800 2800 0 60 ~
+P39
+Text Label 4800 2700 0 60 ~
+P40
+Wire Wire Line
+	5000 2700 4800 2700
+Wire Wire Line
+	5000 2800 4800 2800
+Wire Wire Line
+	5000 2900 4800 2900
+Wire Wire Line
+	5000 3000 4800 3000
+Wire Wire Line
+	5000 3100 4800 3100
+Wire Wire Line
+	5000 3200 4800 3200
+Wire Wire Line
+	5000 3300 4800 3300
+Wire Wire Line
+	5000 3400 4800 3400
+Wire Wire Line
+	5000 3500 4800 3500
+Wire Wire Line
+	5000 3600 4800 3600
+Wire Wire Line
+	5000 3700 4800 3700
+Wire Wire Line
+	5000 3800 4800 3800
+Wire Wire Line
+	5000 3900 4800 3900
+Wire Wire Line
+	5000 4000 4800 4000
+Wire Wire Line
+	5000 4100 4800 4100
+Wire Wire Line
+	5000 4200 4800 4200
+Wire Wire Line
+	5000 4300 4800 4300
+Wire Wire Line
+	5000 4400 4800 4400
+Wire Wire Line
+	5000 4500 4800 4500
+Wire Wire Line
+	5000 4600 4800 4600
+$Comp
+L DIPF40 J1
+U 1 1 5B255997
+P 2800 3000
+F 0 "J1" H 2600 3400 60  0000 L BNN
+F 1 "DIPF40" H 2600 1200 60  0000 L BNN
+F 2 "" H 2600 1200 60  0000 C CNN
+F 3 "" H 2600 1200 60  0000 C CNN
+	1    2800 3000
+	1    0    0    -1
+$EndComp
+$Comp
+L ROUND40 J2
+U 1 1 5B255996
+P 4350 3600
+F 0 "J2" H 4200 4600 60  0000 L BNN
+F 1 "ROUND40" H 4200 2400 60  0000 L BNN
+F 2 "" H 4200 2400 60  0000 C CNN
+F 3 "" H 4200 2400 60  0000 C CNN
+	1    4350 3600
+	1    0    0    -1
+$EndComp
+$EndSCHEMATC
